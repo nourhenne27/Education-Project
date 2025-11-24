@@ -1,4 +1,5 @@
 📘 Étude : Collecte & Stockage des données dans le domaine de l’Éducation (Avant et Après l’apparition du Big Data)
+
 ⭐ Introduction
 
 Le domaine de l’éducation génère des données depuis toujours : informations sur les étudiants, cours, examens, enseignants, notes, absences, etc.
