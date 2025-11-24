@@ -139,16 +139,19 @@ Analyses avancées : dashboards, IA, machine learning
 Suivi personnalisé des étudiants
 
 ⭐ 4. Tableau comparatif : Avant vs Après Big Data
-Critère	Avant Big Data	Après Big Data
-Méthodes de collecte	Papier, manuel	Automatisé, digital, temps réel
-Volume	Petit	Très grand
-Variété	Données simples	Vidéos, forums, interactions, IoT
-Stockage	Papier, Excel, Access	Cloud, Data Lakes, Hadoop
-Analyse	Très limitée	IA, dashboards, ML
-Prise de décision	Intuition	Basée sur données
-Suivi étudiant	Manuel	Complet, comportemental
-Dataset CollegeDatabase	Fichiers séparés	Tables relationnelles modernes
-⭐ 6. Conclusion
+
+| Critère                 | Avant Big Data        | Après Big Data                    |
+| ----------------------- | --------------------- | --------------------------------- |
+| Méthodes de collecte    | Papier, manuel        | Automatisé, digital, temps réel   |
+| Volume                  | Petit                 | Très grand                        |
+| Variété                 | Données simples       | Vidéos, forums, interactions, IoT |
+| Stockage                | Papier, Excel, Access | Cloud, Data Lakes, Hadoop         |
+| Analyse                 | Très limitée          | IA, dashboards, ML                |
+| Prise de décision       | Intuition             | Basée sur données                 |
+| Suivi étudiant          | Manuel                | Complet, comportemental           |
+| Dataset CollegeDatabase | Fichiers séparés      | Tables relationnelles modernes    |
+
+⭐ 5. Conclusion
 
 Le Big Data a profondément transformé la gestion des données éducatives.
 Les établissements peuvent maintenant :
